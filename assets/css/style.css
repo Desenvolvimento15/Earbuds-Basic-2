@@ -40,6 +40,13 @@
 .p-black{font-size: 0.8rem; color: var(--paragraph);}
 
 
+@media screen and (min-width:770px) {
+    .root-buds-two{
+        display: none;
+    }
+}
+
+
 @media screen and (max-width:769px) {
     a{
         text-decoration: none;
