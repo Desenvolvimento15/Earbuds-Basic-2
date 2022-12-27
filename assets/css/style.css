@@ -36,7 +36,7 @@
 .p-white-03{font-size: 0.9rem; color: var(--title-white); text-align: left; padding-bottom: 0.5rem; line-height: 1.5;}
 .p-white-02{font-size: 0.74rem; color: var(--title-white); text-align: left;}
 .p-white{font-size: 1.3rem; color: var(--title-white); text-align: center;}
-.p-white-footer{font-size: 1rem; color: var(--title-white); text-align: justify; padding-bottom: 0.5rem;}
+.p-white-footer{font-size: 1rem; color: var(--title-white); text-align: left; padding-bottom: 0.5rem; line-height: 1.3;}
 .p-black{font-size: 0.8rem; color: var(--paragraph);}
 
 

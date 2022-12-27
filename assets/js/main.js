@@ -1,6 +1,7 @@
 
 $('.galeria').slick({
-    dots: true,
+    autoplay: true,
+    dots: false,
     arrows: false,
     infinite: false,
     speed: 300,
